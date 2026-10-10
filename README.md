@@ -1,8 +1,23 @@
-Hi, its Fhazleyn here. I am currently on my final year in my becoming a Software Engineer journey. I am creating this repository as a task for my elective,  WIF3005 Software Maintenance and Evolution. Along the way of completing this course, I hope i will learn more in depth about the application of git and github in the process of software development, especially in the maintenance cycle. I believe the things i learn in this course will help me a lot in the real world application in my future career. 
+# Hi, I'm Fhazleyn 👋
 
-Me surviving my degree: 
+Final year Software Engineering student at Universiti Malaya. This repository is my profile for **WIF3005 Software Maintenance and Evolution**, an elective I'm taking this semester.
 
-![My Image](me.jpg)
+## Course Expectations
+
+- **Git and GitHub in practice**: use branches, pull requests, and code reviews the way real teams do.
+- **Maintenance cycle**: understand how software is fixed, updated, and kept alive after release.
+- **Legacy code**: get comfortable reading and changing code I did not write.
+
+##
+
+  
+I hope i will finish my study with a flying success (i have about 5 more months to gooo!!!)
+
+### Me Surviving My Degree:
+
+<p align="center">
+  <img src="me.jpg" alt="this is so me" width="500">
+</p>
 <!--
 **fhazleyn/fhazleyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
