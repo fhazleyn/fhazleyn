@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi, its Fhazleyn here. I am currently on my final year in my becoming a Software Engineer journey. I am creating this repository as a task for my elective,  WIF3005 Software Maintenance and Evolution. Along the way of completing this course, I hope i will learn more in depth about the application of git and github in the process of software development, especially in the maintenance cycle. I believe the things i learn in this course will help me a lot in the real world application in my future career. 
 
+Me surviving my degree: 
+
+![My Image](me.jpg)
 <!--
 **fhazleyn/fhazleyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
